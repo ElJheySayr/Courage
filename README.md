@@ -6,5 +6,6 @@ The game is a single-player, first-person platformer puzzle game with a story-dr
 
 // **Made in Unity, using Universal Render Pipeline**
 
-Project & Build Link = https://drive.google.com/drive/folders/1oq_lfkvX_kfY0ZkQQW61NPh8_gSQGt0O?usp=drive_link \
+Web Link = https://eljhey.itch.io/courage \
+Raw Project & Build = https://drive.google.com/drive/folders/1oq_lfkvX_kfY0ZkQQW61NPh8_gSQGt0O?usp=drive_link \
 Screenshots = https://www.artstation.com/artwork/8B1YWn
